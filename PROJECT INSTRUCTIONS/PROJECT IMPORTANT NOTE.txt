@@ -1,0 +1,23 @@
+IMPORTANT NOTE - Description English 
+
+* Upload project to internet (https://www.netlify.com/)
+Follow the steps in the images on how to upload your website to the internet.
+
+* Modify the project
+
+Just add your information in the HTML file and leave the project as it is.
+
+If you are going to modify the project in the CSS file, do it normally.
+
+If you are going to modify the project with the sass files, I recommend watching my video of how to use Sass and my configuration for the projects. If you 
+already have knowledge from Sass and has its own settings, you can skip the 
+video.
+
+Video Sass
+https://youtu.be/PYm6QkM7bOU
+
+* Images of the project
+
+When inserting different images keep in mind that they must measure the same
+size of the original images (eg: 1200 x 1050, etc).
+
